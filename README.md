@@ -1,2 +1,1 @@
-# Hola-Mundo
-Esto es un repositorio del modulo 2 del prep course de henry
+esto es una prueba de como clonar un epositorio desde git hub al repositorio local
